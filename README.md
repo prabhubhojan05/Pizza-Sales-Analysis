@@ -1,7 +1,6 @@
 [![MasterHead]( https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)]
 <h1 align="center">Hi 👋, I'm Prabhu Bhojan</h1>
 <h3 align="center">Analyst and an aspiring Data Scientist</h3>
-<img align="right" alt="Coding" width="400" src=”https://chools.in/wp-content/uploads/data-science-2-1.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhubhojan05&label=Profile%20views&color=0e75b6&style=flat" alt="prabhubhojan05" /> </p>
 
