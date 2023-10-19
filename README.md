@@ -1,27 +1,16 @@
-[![MasterHead]( https://thumbs.dreamstime.com/b/big-data-science-analysis-business-technology-concept-virtual-screen-big-data-science-analysis-business-technology-concept-145015243.jpg)]
-<h1 align="center">Hi 👋, I'm Prabhu Bhojan</h1>
-<h3 align="center">Analyst and an aspiring Data Scientist</h3>
+# SQL and Power BI Project: Pizza Sales Performance Analysis Dashboard
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhubhojan05&label=Profile%20views&color=0e75b6&style=flat" alt="prabhubhojan05" /> </p>
+## Analyzing Pizza Sales Data for Performance Insights
 
-- 🌱 I’m currently learning **Machine Learning, NLP,Deep Neural Network, Python**
+### Overview
 
-- 💬 Ask me about **SQL,Machine Learning, DNN**
+The SQL and Power BI project involved creating a Pizza Sales Performance Analysis Dashboard for a foodservice company, utilizing an Excel dataset sourced from Kaggle. The analysis emphasized top-performing pizza categories such as Classic and Large Size Pizzas, highlighting sales trends during weekends and the summer season. Key findings identified the leading products, including the Thai Chicken Pizza and Classic Deluxe Pizza, while also pinpointing the underperforming Brie Carre Pizza. Technical skills showcased encompassed SQL data extraction, Power BI data transformation, interactive visualization creation, and the use of the DAX language for calculated measures and dynamic dashboard deployment, emphasizing data-driven insights.
 
-- 📫 How to reach me **prabhubhojan05@gmail.com**
+### User Instructions
 
-- ⚡ Fun fact **I think I'm serious**
+1. Download the repository or clone it to your local machine.
+2. Extract the dataset from the provided Kaggle link and ensure it is accessible to the project.
+3. Install SQL and Power BI on your system.
+4. Open the Power BI file and connect it with the SQL database.
+5. Follow the provided guidelines in the Power BI file to interact with the dashboard and explore the pizza sales performance analysis.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prabhubhojan05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhubhojan05" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhubhojan05&show_icons=true&locale=en&layout=compact" alt="prabhubhojan05" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhubhojan05&show_icons=true&locale=en" alt="prabhubhojan05" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhubhojan05&" alt="prabhubhojan05" /></p>
